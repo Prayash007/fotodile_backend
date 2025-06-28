@@ -1,0 +1,12 @@
+flask
+flask-cors
+gunicorn
+python-dotenv
+numpy
+pandas
+opencv-python
+requests
+bs4
+instaloader
+scikit-learn
+matplotlib
